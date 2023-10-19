@@ -3483,7 +3483,7 @@ input, select, textarea {
 				#intro p {
 					font-size: 1rem;
 					margin-top: 0rem;
-					transform: translateY(-1300%);
+					transform: translateY(-130%);
 				}
 
 				#intro .actions {
