@@ -3285,7 +3285,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		padding: 4rem 8rem 6rem 4rem ;
+		padding: 4rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3310,7 +3310,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-/* 		min-height: 100vh; */
+		min-height: 100vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3453,7 +3453,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 100vh;
+				min-height: 90vh;
 			}
 
 				#intro p br {
@@ -3489,7 +3489,6 @@ input, select, textarea {
 				#intro .actions {
 					display: none;
 				}
-
 
 		}
 
