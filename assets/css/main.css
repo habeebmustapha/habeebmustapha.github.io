@@ -3477,13 +3477,13 @@ input, select, textarea {
 					font-size: 3.25rem;
 					line-height: 1.1;
 					margin-bottom: 1rem;
-					transform: translateY(-90%);
+					transform: translateY(-130%);
 				}
 
 				#intro p {
 					font-size: 1rem;
 					margin-top: 0rem;
-					transform: translateY(-130%);
+					transform: translateY(-200%);
 				}
 
 				#intro .actions {
